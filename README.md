@@ -1,6 +1,12 @@
-## Hi there 👋
+## Hi, I’m Felipe 👋
 
-<!--
+17-year-old builder from Brazil focused on mobile app development.
+
+I’m learning by building real projects and shipping consistently.
+
+Currently working on my first mobile app and documenting the process publicly.
+
+<!--jmj
 **FelipeSantosTech/FelipeSantosTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
