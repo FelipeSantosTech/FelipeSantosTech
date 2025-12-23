@@ -4,7 +4,7 @@
 
 I’m learning by building real projects and shipping consistently.
 
-Currently working on my first mobile app and documenting the process publicly.
+Currently working on my first mobile app and documenting the process publicly on X.
 
 <!--jmj
 **FelipeSantosTech/FelipeSantosTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
