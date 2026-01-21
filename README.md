@@ -1,6 +1,6 @@
 ## Hi, I’m Felipe 👋
 
-17-year-old builder from Brazil focused on mobile app development.
+18-year-old builder from Brazil focused on mobile app development.
 
 I’m learning by building real projects and shipping consistently.
 
