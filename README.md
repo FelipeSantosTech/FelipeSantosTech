@@ -4,9 +4,8 @@
 
 I’m learning by building real projects and shipping consistently.
 
-Currently working on two mobile apps:       
+Currently working on one mobile app:       
 1 - HABITSS -> Habit tracker that blocks social media till you complete your daily habits    
-2 - PEDRO -> Movie buddy that lets you rank the movies you've watched and gives you personalized recommendations
 
 <!--jmj
 **FelipeSantosTech/FelipeSantosTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
