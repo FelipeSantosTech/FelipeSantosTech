@@ -5,7 +5,7 @@
 I’m learning by building real projects and shipping consistently.
 
 Currently working on one mobile app:       
-1 - HABITSS -> Habit tracker that blocks social media till you complete your daily habits    
+1 - HABITSS -> Habit tracker that blocks social media till you complete your daily habits (IT'S LIVE IN THE APP STORE!)  
 
 <!--jmj
 **FelipeSantosTech/FelipeSantosTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
